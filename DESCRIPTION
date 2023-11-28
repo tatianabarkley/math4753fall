@@ -1,0 +1,13 @@
+Package: MATH4753FALL
+Type: Package
+Title: Main Package
+Version: 0.1.0
+Author: Tatiana Barkley
+Maintainer: Tatiana Barkley <tatiana.barkley@ou.edu>
+Description: Contains my function from Labs and assignment.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.3
+Depends: 
+    R (>= 2.10)
